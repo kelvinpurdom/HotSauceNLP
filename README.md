@@ -1,7 +1,7 @@
 # Data analysis
 - Document here the project: HotSauceNLP
 - Description: Using NLP to use reviews from Hot Sauce websites for recommendations
-- Data Source:
+- Data Source: https://www.americanfoodclub.de/Hot-Sauces-Scharfe-Sossen-Wuerzsossen
 - Type of analysis: Natural Language Processing
 
 
