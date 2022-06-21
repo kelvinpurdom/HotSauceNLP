@@ -1,10 +1,10 @@
 # Data analysis
 - Document here the project: HotSauceNLP
-- Description: Project Description
+- Description: Using NLP to use reviews from Hot Sauce websites for recommendations
 - Data Source:
-- Type of analysis:
+- Type of analysis: Natural Language Processing
 
-Please document the project the better you can.
+
 
 # Startup the project
 
